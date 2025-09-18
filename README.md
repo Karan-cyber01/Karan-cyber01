@@ -1,62 +1,85 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hi, I'm Karan Gadekar  
 
-**Frontend Developer | React Enthusiast | UI/UX Designer**
-
-I'm passionate about building interactive, user-friendly web applications with clean code and intuitive designs. I specialize in creating responsive, cross-platform experiences that solve real-world problems.
-
-## 🛠️ Tech Stack
-
-**Frontend Development:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & Technologies:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-5C6BC0?style=for-the-badge)
-
-## 🚀 Featured Projects
-
-### 🛍️ RoxMeat - E-commerce Website
-A modern e-commerce platform built with React for seamless product browsing and online ordering.
-- **Technologies:** React, HTML, CSS, JavaScript
-- **Key Features:** Product catalog, shopping cart, order workflow, responsive design
-- **Highlight:** Designed intuitive UI that works flawlessly across all devices
-
-### 💬 GenChat - Real-time Chat Application
-A responsive chat application with real-time messaging and REST API integration.
-- **Technologies:** React, HTML, CSS, REST APIs
-- **Key Features:** Real-time messaging, persistent chat history, mobile-responsive design
-- **Highlight:** Integrated multiple API endpoints for smooth user interactions
-
-### 💰 Currency Converter
-A dynamic currency conversion tool using live exchange rates with clean, user-friendly interface.
-- **Technologies:** HTML, CSS, JavaScript, API Integration
-- **Key Features:** Real-time exchange rates, multiple currencies, input validation
-- **Highlight:** Implemented efficient conversion logic supporting global currencies
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
-
-## 🌟 What I Bring to the Table
-
-- **Clean Code:** Writing maintainable, efficient, and well-documented code
-- **User-Centric Design:** Creating interfaces that prioritize user experience
-- **Problem Solving:** Finding innovative solutions to technical challenges
-- **Continuous Learning:** Always exploring new technologies and best practices
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+🚀 Aspiring Software Developer | 💻 MERN Stack Enthusiast | 📊 Machine Learning & DSA Explorer  
 
 ---
 
-⭐ *"First, solve the problem. Then, write the code." - John Johnson*
+## 🌟 About Me  
+
+- 🎓 Final-year student passionate about **Software Development & Problem Solving**.  
+- 💡 Exploring **Web Development (MERN Stack)** and **Blockchain (beginner)**.  
+- 📈 Strong focus on **DSA in Java** (shifted from C++ for interview prep).  
+- 🤖 Interested in **AI/ML applications** in **health, wellbeing, and sports**.  
+- 📚 Preparing for **placements & coding interviews** (Infosys, Cognizant, HackWithInfy, etc.).  
+- 🎯 Goal: To become a **full-stack developer** and contribute to impactful projects.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Web Development  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+
+### ⚙️ Backend & Databases  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+### 💻 Programming & DSA  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![DSA](https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-blue?style=flat)  
+
+### 🤖 Machine Learning / AI  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![ML](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat)  
+
+---
+
+## 📌 Current Focus  
+
+- 🔹 Mastering **DSA in Java** for interviews  
+- 🔹 Practicing **LeetCode, HackWithInfy-style problems**  
+- 🔹 Building projects using **MERN stack**  
+- 🔹 Learning **Blockchain fundamentals**  
+- 🔹 Improving **spoken English & communication skills**  
+
+---
+
+## 📂 Projects (to add later)  
+
+- 🚉 **Railway Reservation System** – MVC-based academic project  
+- 🖼️ **Image Processing with OpenCV** – Feature detection & object tracking  
+- 📱 **Android Mini-Apps** – Activity/Intent-based learning projects  
+- 🌐 **MERN Stack Apps** – CRUD, Authentication, REST APIs  
+
+---
+
+## 📊 GitHub Stats  
+
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)  
+
+---
+
+## 🌍 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-link)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/your-username)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email)  
+
+---
+
+⭐ *"Passionate about building, curious about learning, and committed to growing every single day."*  
