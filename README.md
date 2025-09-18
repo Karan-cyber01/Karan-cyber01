@@ -75,17 +75,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaranGadekar&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGadekar&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaranGadekar&theme=radical)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=KaranGadekar&color=blue)  
-
----
 
 ## 🌍 Connect With Me  
 
